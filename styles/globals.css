@@ -1,0 +1,123 @@
+@tailwind base;
+@tailwind components;
+
+/* Hamrah Font */
+
+@font-face {
+  font-family: "hamrah";
+  src: url("./fonts/hamrah/Hamrah-FD.woff2") format("woff2"),
+    url("./fonts/hamrah/Hamrah.woff2") format("woff2");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+/* Dana Numeral Font */
+
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-Hairline.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-Thin.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-UltraLight.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-Light.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-Regular.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-Medium.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-DemiBold.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-Bold.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-ExtraBold.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-Black.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-ExtraBlack.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-Heavy.woff2");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff2/DanaFaNum-fat.woff2");
+}
+
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-Hairline.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-Thin.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-UltraLight.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-Light.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-Regular.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-Medium.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-DemiBold.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-Bold.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-ExtraBold.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-Black.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-ExtraBlack.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-Heavy.woff");
+}
+@font-face {
+  font-family: "dananum";
+  src: url("./fonts/numerals/woff/DanaFaNum-fat.woff");
+}
+
+@tailwind utilities;
